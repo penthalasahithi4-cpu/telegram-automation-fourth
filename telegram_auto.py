@@ -159,7 +159,7 @@ async def send_messages():
                 valid_groups.append(group)
 
                 # Wait between messages
-                await asyncio.sleep(16)
+                await asyncio.sleep(5)
 
             except ChatWriteForbiddenError:
 
