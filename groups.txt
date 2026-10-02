@@ -1,16 +1,12 @@
 all_exam_coding_solution
 appenexamhelp
 aws_certifications100
-AWS_DevOps_100
 AWS_Exam_Certifications
 aws_exam_preparation
 aws_saa_co2_studygroup
 awsaccountprovider
 awscertifiedcloudpractitioner202
-awsexamhelpp
 az104_az900
-Az104_certification_passTcs
-AZ204snippets
 az_aws
 azcertsgroup
 Azure400
